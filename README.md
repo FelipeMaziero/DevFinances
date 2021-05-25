@@ -1,3 +1,27 @@
-# Maratona Discover 
- Um projeto com metodologia mão na massa e com foco no desenvolvimento web. Criação de uma aplicação financeira para treinar minhas habilidades em ferramentas como JavaScript, CSS, HTML e durante o desenvolvimento descobrir novos conceitos importantes para ajudar a construir uma base sólida em programação.
- 
+<h1 align="center">
+  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
+</h1>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+
+<br>
+
+<p align="center">
+  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+
+## 💻 Projeto
+
+O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
